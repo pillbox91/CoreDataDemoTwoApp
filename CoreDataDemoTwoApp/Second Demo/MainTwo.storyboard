@@ -95,10 +95,10 @@
                                 <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="jCr-iI-hMj">
-                                <rect key="frame" x="0.0" y="413" width="414" height="32"/>
+                            <segmentedControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="left" contentVerticalAlignment="top" apportionsSegmentWidthsByContent="YES" segmentControlStyle="plain" selectedSegmentIndex="0" translatesAutoresizingMaskIntoConstraints="NO" id="jCr-iI-hMj">
+                                <rect key="frame" x="31.5" y="413" width="351" height="32"/>
                                 <segments>
-                                    <segment title="Lamborgini"/>
+                                    <segment title="Lamborghini"/>
                                     <segment title="Ferrari"/>
                                     <segment title="Mercedes"/>
                                     <segment title="Nissan"/>
